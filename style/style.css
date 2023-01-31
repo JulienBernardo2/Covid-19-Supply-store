@@ -1,0 +1,159 @@
+.display
+{
+  font-size: 70px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.jumbotron
+{
+  height: 380px;
+}
+
+.modal-header
+{
+  text-align: center;
+  background-color: rgb(109, 127, 193);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.modal-img
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.modal-desc
+{
+  padding: 10px 0px 0px 0px;
+}
+
+.modal-footer
+{
+  background-color: rgb(166, 167, 167);
+}
+.divCartOptions
+{
+  width: 20%;
+  margin: 20px 0px 0px 0px; 
+  display:contents;  
+}
+.big
+{
+  margin: 40px 0px 0px 0px;
+}
+.divSearchBar
+{
+  margin: 30px 0px 0px 0px; 
+  width: 500px;
+}
+
+#searchBar
+{
+  width: 40%;
+  border-radius: 20px;
+}
+
+.main
+{
+  background-color:  rgb(139, 186, 220);
+}
+
+.row
+{
+  margin: 0px 0px 0px 120px;
+}
+
+.card
+{
+  margin: 30px 0px 30px 0px;
+}
+
+#alert
+{
+  text-align: center;
+  width: 60%;
+  margin: 0px 0px 10px 250px;
+}
+
+.table1
+{
+  border: solid black 2px;
+  background-color: rgb(255, 255, 255);
+  width: 90%;
+  margin-left: 40px; 
+}
+
+.trTitle
+{ 
+  background-color: rgb(208, 201, 201);
+  text-align: center;
+  font-size: 30px;
+  font-style: italic;
+  height: 40px;
+}
+
+#tID
+{
+  padding-top: 40px;
+  padding-bottom: 20px;
+  text-align: center;
+  background-color: rgb(255, 255, 255); 
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 17px;
+}
+#tName
+{
+  padding-top: 40px;
+  padding-bottom: 20px;
+  text-align: center;
+  background-color: rgb(255, 255, 255); 
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 17px;
+}
+#tDes
+{
+  padding-top: 40px;
+  padding-bottom: 20px;
+  text-align: center;
+  background-color: rgb(255, 255, 255); 
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 17px;
+}
+#tPrice
+{
+  padding-top: 40px;
+  padding-bottom: 20px;
+  text-align: center;
+  background-color: rgb(255, 255, 255); 
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 17px;
+}
+#tDis
+{
+  padding-top: 40px;
+  padding-bottom: 20px;
+  text-align: center;
+  background-color: rgb(255, 255, 255); 
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 17px;
+}
+
+
+.table1 td
+{
+  padding: 10px;
+  text-align: center;
+}
+
+footer
+{
+  background-color: lightgrey;
+  margin: 20px;
+  padding: 10px 0 10px 0;
+  text-align: center;
+}
+
+
+
